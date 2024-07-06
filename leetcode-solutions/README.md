@@ -1,2 +1,2 @@
 # Java Leetcode problems
-Code library for competitive programming and Interview Preparation purposes.
+Code library for competitive programming and Interview preparation purposes.
