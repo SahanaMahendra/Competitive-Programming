@@ -1,3 +1,5 @@
+import java.util.NoSuchElementException;
+
 public class Queue {
     private ListNode front;
     private ListNode rare;
@@ -51,5 +53,4 @@ public class Queue {
         length--;
         return result;
     }
-
 }
